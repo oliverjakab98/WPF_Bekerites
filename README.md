@@ -5,3 +5,4 @@ Bekerítés nevű beadandó amit 2019/2020 őszi félévében csináltam Esemén
 - WPF
 - MVVM struktúra
 - File és Adatbázis mentés/betöltés
+- Unit tesztek
