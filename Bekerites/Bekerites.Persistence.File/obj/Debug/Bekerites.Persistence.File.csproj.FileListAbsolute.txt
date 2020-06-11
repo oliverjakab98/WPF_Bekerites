@@ -1,0 +1,25 @@
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.csprojAssemblyReference.cache
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.File.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.File.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.csproj.CopyComplete
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.pdb
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.File.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.File.pdb
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.pdb
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.csprojAssemblyReference.cache
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.csproj.CopyComplete
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.File.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.File.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\bin\Debug\Bekerites.Persistence.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.csprojAssemblyReference.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.csproj.CoreCompileInputs.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.csproj.CopyComplete
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.File\obj\Debug\Bekerites.Persistence.File.pdb

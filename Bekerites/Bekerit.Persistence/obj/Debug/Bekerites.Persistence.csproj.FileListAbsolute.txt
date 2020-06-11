@@ -1,0 +1,16 @@
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerit.Persistence\bin\Debug\Bekerites.Persistence.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerit.Persistence\bin\Debug\Bekerites.Persistence.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.csprojAssemblyReference.cache
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.pdb
+D:\C#\4_beadando\Bekerites\Bekerit.Persistence\bin\Debug\Bekerites.Persistence.dll
+D:\C#\4_beadando\Bekerites\Bekerit.Persistence\bin\Debug\Bekerites.Persistence.pdb
+D:\C#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.csprojAssemblyReference.cache
+D:\C#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.dll
+D:\C#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerit.Persistence\bin\Debug\Bekerites.Persistence.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerit.Persistence\bin\Debug\Bekerites.Persistence.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.csprojAssemblyReference.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.csproj.CoreCompileInputs.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerit.Persistence\obj\Debug\Bekerites.Persistence.pdb

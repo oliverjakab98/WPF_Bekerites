@@ -1,0 +1,81 @@
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.exe.config
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.exe
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.pdb
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csprojAssemblyReference.cache
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\App.g.cs
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites_MarkupCompile.cache
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.g.resources
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.Properties.Resources.resources
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csproj.GenerateResource.cache
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.exe
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.pdb
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\MainWindow.baml
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\MainWindow.g.cs
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csprojAssemblyReference.cache
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\View\MainWindow.baml
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\View\MainWindow.g.cs
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\App.g.cs
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites_MarkupCompile.cache
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.g.resources
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.Properties.Resources.resources
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csproj.GenerateResource.cache
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.exe
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.exe.config
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.exe
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.File.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.File.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csproj.CopyComplete
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.dll
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.dll
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.File.dll
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.pdb
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.pdb
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.File.pdb
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csproj.CopyComplete
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.dll
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.dll.config
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.xml
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\LoadWindow.g.cs
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\SaveWindow.g.cs
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites_MarkupCompile.lref
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\LoadWindow.baml
+D:\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\SaveWindow.baml
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.SqlServer.xml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.exe.config
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.exe
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.File.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.SqlServer.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.Db.dll.config
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\Bekerites.Persistence.File.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.xml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\bin\Debug\EntityFramework.SqlServer.xml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csprojAssemblyReference.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\MainWindow.baml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\LoadWindow.g.cs
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\MainWindow.g.cs
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\SaveWindow.g.cs
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\App.g.cs
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites_MarkupCompile.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites_MarkupCompile.lref
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\LoadWindow.baml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\View\SaveWindow.baml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.g.resources
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.Properties.Resources.resources
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csproj.GenerateResource.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csproj.CoreCompileInputs.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.csproj.CopyComplete
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.exe
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites\obj\Debug\Bekerites.pdb

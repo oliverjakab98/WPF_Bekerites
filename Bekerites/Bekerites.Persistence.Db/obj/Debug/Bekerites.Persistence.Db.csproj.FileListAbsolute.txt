@@ -1,0 +1,31 @@
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.pdb
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.dll
+C:\Users\Olivér\Desktop\elte\c#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.pdb
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.pdb
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.csprojAssemblyReference.cache
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.pdb
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.dll.config
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.pdb
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.xml
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.csproj.CopyComplete
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.dll.config
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.Db.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.SqlServer.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\Bekerites.Persistence.pdb
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.xml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\bin\Debug\EntityFramework.SqlServer.xml
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.csprojAssemblyReference.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.csproj.CoreCompileInputs.cache
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.csproj.CopyComplete
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.dll
+D:\ELTE\2019-2020 oszi felev (3)\eva\C#\4_beadando\Bekerites\Bekerites.Persistence.Db\obj\Debug\Bekerites.Persistence.Db.pdb
